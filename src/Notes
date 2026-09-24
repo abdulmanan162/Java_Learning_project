@@ -1,0 +1,12 @@
+Super-simple way to remember them
+Concept	Main idea	Question it answers
+Encapsulation	Protect internal state	"Who can change my data?"
+Polymorphism	Same interface, different behavior	"How can different objects respond to the same call?"
+Interface	Define a contract	"What must this object be able to do?"
+Composition	Combine objects	"How can I build a bigger object from smaller ones?"
+
+One line trick
+Encapsulation → Hide
+Interface     → Promise
+Polymorphism  → Vary
+Composition   → Combine
